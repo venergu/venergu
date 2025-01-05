@@ -1,5 +1,4 @@
-# 💫 About Me:
-🚀 I'm currently working on<br>Building modern web apps and sharpening my skills in JavaScript, TypeScript, and Git.<br><br>🤝 I'm looking to collaborate on<br>Frontend projects, open-source contributions, or anything that involves web development.<br><br>🙌 I'm looking for help with<br>Improving my English for better communication in the tech world.<br><br>🌱 I'm currently learning<br>TypeScript in depth, advanced Git workflows, and best practices in web development.<br><br>💬 Ask me about<br>JavaScript, TypeScript, HTML, CSS, or Git. I’m always happy to help or share what I know!<br><br>⚡ Fun fact<br>I’m a developer from Poland who’s equally passionate about coding and staying fit.
+
 
 
 ## 🌐 Socials:

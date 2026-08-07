@@ -1,71 +1,108 @@
-![Profile Views](https://komarev.com/ghpvc/?username=venergu&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+<!-- ══════════════════ HEADER ══════════════════ -->
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on **SleepyCode project** [FiveM project]<br>
-👯 I’m looking to collaborate on **FiveM servers**<br>
-🌱 I’m currently learning **React + Next.js**<br>
-⚡ Fun fact: I have been programming in **FiveM for over 3 years**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=venergu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Web%20Apps%20%E2%80%A2%20TypeScript%20%E2%80%A2%20React%20%E2%80%A2%20FiveM&descAlignY=52&descSize=16" width="100%" />
 
----
+<a href="https://github.com/venergu">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-stack+developer;Web+apps%2C+websites+%26+landing+pages;3%2B+years+of+FiveM+development;Currently+working+on+SleepyCode" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/792490204895772713)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@venergu)
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=venergu&label=Profile+views&color=8B5CF6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/venergu?label=Followers&style=flat-square&color=8B5CF6&labelColor=161618" alt="Followers" />
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+</div>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venergu&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=venergu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venergu&theme=dark&hide_border=true&layout=compact)
+## 👨‍💻 About
+
+Full-stack developer building **web applications and websites** — from landing pages and
+company sites to full **React / Next.js** products with a Node backend. Alongside that,
+3+ years of **FiveM** server and script development in Lua, which is where I learned to
+ship things that have to work under real load.
+
+```yaml
+name:      venergu
+focus:
+  - web applications (React · Next.js · Node)
+  - websites & landing pages
+  - FiveM servers and scripts
+current:   SleepyCode — FiveM project
+learning:  React · Next.js
+open_to:   web projects · FiveM collaborations · freelance
+```
+
+<br/>
+
+<div align="center">
+  <a href="https://discord.gg/792490204895772713">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/@venergu">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=venergu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=ts,js,lua,php,nodejs,express&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,bootstrap&theme=dark" />
+
+**Data & Infra**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,cloudflare,apache,git,vite&theme=dark" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,webpack&theme=dark" />
+
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=venergu&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venergu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" height="165" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=venergu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" height="165" alt="Streak stats" />
+
+<br/><br/>
+
+<!-- Animated contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venergu&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=venergu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FiveM-3%2B_years-8B5CF6?style=for-the-badge&labelColor=161618" alt="FiveM experience" />
+<img src="https://img.shields.io/badge/Focus-Full--stack-8B5CF6?style=for-the-badge&labelColor=161618" alt="Focus" />
+<img src="https://img.shields.io/badge/Open_to-Collaboration-8B5CF6?style=for-the-badge&labelColor=161618" alt="Open to collaboration" />
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=venergu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
+</div>

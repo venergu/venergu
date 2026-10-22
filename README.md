@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="venergu" />
+<img src="banner.svg" width="100%" alt="venergu" />
 
 <br/>
 
@@ -107,17 +107,7 @@ open_to:  web projects · FiveM collaborations · freelance
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=venergu&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venergu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" height="170" alt="Top languages" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=venergu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=A78BFA" height="170" alt="Streak stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=venergu&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true&area=true&area_color=8B5CF6" width="100%" alt="Contribution graph" />
-
 </div>
 
 <br/>

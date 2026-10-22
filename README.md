@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:3B82F6&height=240&section=header&text=venergu&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node%20%E2%80%A2%20FiveM&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="venergu" />
+<img src="assets/banner.svg" width="100%" alt="venergu" />
+
+<br/>
 
 <a href="https://github.com/venergu">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Building+web+apps+that+ship;Websites+%26+landing+pages+that+convert;3%2B+years+of+FiveM+development;Currently+working+on+SleepyCode" alt="Typing SVG" />
@@ -34,7 +36,7 @@
 
 <br/>
 
-## `~/about`
+## `/` about
 
 Full-stack developer building **web applications, websites and landing pages** - from company sites to complete **React / Next.js** products with a **Node.js** backend.
 
@@ -78,7 +80,7 @@ open_to:  web projects · FiveM collaborations · freelance
 
 <br/>
 
-## `~/stack`
+## `/` stack
 
 <div align="center">
 
@@ -101,7 +103,7 @@ open_to:  web projects · FiveM collaborations · freelance
 
 <br/>
 
-## `~/stats`
+## `/` stats
 
 <div align="center">
 
@@ -120,7 +122,21 @@ open_to:  web projects · FiveM collaborations · freelance
 
 <br/>
 
-## `~/contact`
+## `/` snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venergu/venergu/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venergu/venergu/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/venergu/venergu/output/snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## `/` contact
 
 <div align="center">
 
